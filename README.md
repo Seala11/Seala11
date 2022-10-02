@@ -1,16 +1,30 @@
-### Hi there 👋
+# Front-end Developer
 
-<!--
-**Seala11/Seala11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact Information:
 
-Here are some ideas to get you started:
+* **Location:** Chile, Santiago
+* **LinkedIn:** [Hanna Papova](https://www.linkedin.com/in/hanna-papova-56a0776b/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills:
+
+* HTML5
+* CSS3, SCSS
+* JavaScript
+* Typescript
+* React, Redux 
+* Jest
+* Webpack
+* Git, GitHub
+* Figma
+
+### CodeWars:
+
+![CodeWars](https://www.codewars.com/users/Seala11/badges/large)
+
+### Courses:
+
+* The Rolling Scopes School [JAVASCRIPT/FRONT-END PRE-SCHOOL](https://app.rs.school/certificate/tzs2wek4) course.
+* The Rolling Scopes School [JAVASCRIPT/FRONT-END 2022Q1](https://app.rs.school/certificate/s7j6sxba) course.
+
+
+
